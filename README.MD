@@ -8,3 +8,8 @@ Then, the User's answers get's compared to the 10 questions that were just passe
 
 Arun Dahal:
 I worked on the front-end portion of the Quiz Zone project. My focus was on creating the homepage, where users log in to access the quiz directly. I designed the page to be simple and intuitive, with a login form that leads users straight to the quiz after authentication. I also included links for signing up and resetting passwords to ensure a smooth and seamless user experience. To make the homepage engaging, I added sections for quiz categories like Science, Education, and Technology. Each category features icons and hover effects to make the design interactive and visually appealing. I focused on responsive design, ensuring the layout works well on both desktop and mobile devices. The color scheme uses vibrant purple accents (#46178F), giving the page a clean and professional look. My goal was to create a user-friendly front-end that guides users effortlessly into the quiz while maintaining a consistent and appealing design throughout.
+
+
+
+YOUTUBE LINK
+https://youtu.be/49cLT6XWpH8
