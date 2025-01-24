@@ -16,3 +16,5 @@ I worked on the front end portion along with Arun to make the Quiz Zone Porject.
 
 YOUTUBE LINK
 https://youtu.be/49cLT6XWpH8
+Run by typing npm start in terminal
+and then go to localhost 2000
