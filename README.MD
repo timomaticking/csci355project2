@@ -12,8 +12,6 @@ I worked on the front-end portion of the Quiz Zone project. My focus was on crea
 Aditya Dwivedi:
 Project 2 
 I worked on the front end portion along with Arun to make the Quiz Zone Porject. I made the result page, where once you complete your quiz you are given your results to see how you did. The design of the page rather simple, I structured the page layout with HTML, styled it to ensure an engaging and user-friendly design with CSS, and added interactivity using JavaScript. I added the that the quiz will give you different comments depending on how well you solved the 10 random questions and also the option to go back and restart the quiz and or go back to the starting home page. The design itself of the result page is rather simple with the results and button options in the middle with a simple picture in the background. 
-Project 3 
-I worked further on the results page making it so that the history of previous test scores is saved and displayed on the final result page after giving multiple quizes. I made a JSON file with an empty array in it and mapped the quizical.ejs file to it to store all the quiz results in the json file. This helped store past quiz results and helped me display the quiz results on the result page. This involved writing reading and writing statement to map to the json file and also working closely with Tim as his and my code were connected by a lot.
 
 
 YOUTUBE LINK
